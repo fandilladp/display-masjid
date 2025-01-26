@@ -1,0 +1,78 @@
+.black,
+.picker__list-item:hover {
+    background-color: #000!important
+}
+
+.black-text,
+.btn.btn-link,
+.toast-close-button:focus,
+.toast-close-button:hover {
+    color: #000!important
+}
+
+.rgba-black-slight,
+.rgba-black-slight:after {
+    background-color: rgba(0, 0, 0, .1)
+}
+
+.rgba-black-light,
+.rgba-black-light:after {
+    background-color: rgba(0, 0, 0, .3)
+}
+
+.rgba-black-strong,
+.rgba-black-strong:after {
+    background-color: rgba(0, 0, 0, .7)
+}
+
+.carousel-thumbnails .carousel-indicators .active,
+.picker__box .picker__header .picker__select--month.browser-default,
+.picker__box .picker__header .picker__select--year.browser-default,
+.picker__list-item,
+.white {
+    background-color: #fff!important
+}
+
+#toast-container>div,
+.card.card-cascade .view.view-cascade.gradient-card-header,
+.clockpicker-display .clockpicker-display-column #click-am.text-primary,
+.clockpicker-display .clockpicker-display-column #click-pm.text-primary,
+.clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary,
+.clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary,
+.darktheme .picker__box .picker__calendar-container .clockpicker-plate .clockpicker-tick,
+.darktheme .picker__box .picker__date-display .clockpicker-display,
+.darktheme .picker__box .picker__date-display .clockpicker-display .clockpicker-span-am-pm,
+.darktheme .picker__box .picker__footer button,
+.dropdown .dropdown-menu .dropdown-item:active,
+.dropdown .dropdown-menu .dropdown-item:hover,
+.dropleft .dropdown-menu .dropdown-item:active,
+.dropleft .dropdown-menu .dropdown-item:hover,
+.dropright .dropdown-menu .dropdown-item:active,
+.dropright .dropdown-menu .dropdown-item:hover,
+.dropup .dropdown-menu .dropdown-item:active,
+.dropup .dropdown-menu .dropdown-item:hover,
+.picker--focused .picker__list-item--selected,
+.picker--time .picker__button--clear:focus,
+.picker--time .picker__button--clear:focus:before,
+.picker--time .picker__button--clear:hover,
+.picker--time .picker__button--clear:hover:before,
+.picker__box .picker__header .picker__date-display,
+.picker__box .picker__table .picker--focused,
+.picker__box .picker__table .picker__day--outfocus,
+.picker__box .picker__table .picker__day--selected,
+.picker__box .picker__table .picker__day--selected:hover,
+.picker__date-display,
+.picker__date-display .clockpicker-display .clockpicker-display-column #click-am.text-primary,
+.picker__date-display .clockpicker-display .clockpicker-display-column #click-pm.text-primary,
+.picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-hours.text-primary,
+.picker__date-display .clockpicker-display .clockpicker-display-column .clockpicker-span-minutes.text-primary,
+.picker__list-item--selected,
+.picker__list-item--selected:hover,
+.side-nav,
+.side-nav .search-form .form-control,
+.toast-close-button,
+.toast-message a,
+.toast-message label,
+.white-text {
+    color: #fff!important
+}
