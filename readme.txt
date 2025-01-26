@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1ieOEuQzU88jB9AzKsvRBRQENKYnYTYF2/view?usp=sharing
+
 requrement PHP 7.0
 download https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.0.0/
 dan extract ke c:\xampp
